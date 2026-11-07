@@ -1,0 +1,6 @@
+{
+  "name": "ブライダル総合研修 専門用語マスター",
+  "description": "一流ホテルマン監修。着物ナビブライダルディレクター総合研修専門用語集。全18カテゴリーの用語を網羅したWeb研修用アコーディオン型マニュアルシステム。（著作権：shigenori,watanabe / 他社流用・転載禁止）",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
